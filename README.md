@@ -2,6 +2,8 @@
 
 <p><em>Front-End developer at <a href="https://taxdown.es/">TaxDown</a></em></p>
 
+### ⛵ A little more about me... 
+
 ```javascript
 const fer = {
     pronouns: "He" | "Him",
