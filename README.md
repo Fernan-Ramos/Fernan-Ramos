@@ -6,7 +6,7 @@
 const fer = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "HTML", "SCSS", "Java"],
-    technologies: ["React", "Gatsby", "Vue", "Node", "Styled-Components", "Jest", "React-Testing", "AWS"]
+    technologies: ["React", "Gatsby", "Vue", "Node", "Styled-Components", "Jest", "React-Testing", "AWS"],
     architecture: ["Progressive web applications", "Single page applications", "Server side rendering", "Design system pattern", "Component Architecture"],
     currentFocus: "Front end Development",
     askMeAbout: ["web dev", "tech", "design", "films", "history"],
